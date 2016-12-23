@@ -12,10 +12,19 @@ body {
     height: 100%;
     width: 100%;
     margin: 0px;
+<<<<<<< HEAD
+=======
+    /*background-color: #242424;*/
+    /*background-color: #73F600;*/
+>>>>>>> origin/master
     background-color: #e5e8e8;
 }
 
 .reglacabeza {
+<<<<<<< HEAD
+=======
+    /*outline: 2px black solid;*/
+>>>>>>> origin/master
     background-color: rgb(71, 71, 70);
     width: 100%;
     padding: 10px 0px;
@@ -28,6 +37,10 @@ body {
 }
 
 .nombrecabeza {
+<<<<<<< HEAD
+=======
+    /*outline: 2px yellow solid;*/
+>>>>>>> origin/master
     width: 15%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -36,6 +49,10 @@ body {
 }
 
 .nombrecabeza2 {
+<<<<<<< HEAD
+=======
+    /*outline: 2px yellow solid;*/
+>>>>>>> origin/master
     width: 15%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -53,11 +70,24 @@ body {
 }
 
 .portada {
+<<<<<<< HEAD
+=======
+    /*background: url(img/fondo.png) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     height: 100%;
     width: 100%;
 }
 
 .portada figure {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     text-align: center;
 }
@@ -66,9 +96,17 @@ body {
 /*-------------------------------------menu-------------------*/
 
 header {
+<<<<<<< HEAD
     margin: 0 auto;
     width: 59.5%;
     height: 200px;
+=======
+    /*outline: 2px red solid;*/
+    margin: 0 auto;
+    width: 59.5%;
+    height: 200px;
+    /*background-color: red;*/
+>>>>>>> origin/master
 }
 
 div.contenedor {
@@ -79,6 +117,10 @@ div.contenedor {
 }
 
 div#tres {
+<<<<<<< HEAD
+=======
+    /*background-color: rgb(22, 145, 190);*/
+>>>>>>> origin/master
     background-color: rgb(71, 71, 70);
 }
 
@@ -87,6 +129,10 @@ div#tres:hover {
 }
 
 div#cuatro {
+<<<<<<< HEAD
+=======
+    /*background-color: rgb(27, 54, 71);*/
+>>>>>>> origin/master
     background-color: rgb(158, 187, 59);
 }
 
@@ -103,6 +149,10 @@ div#cinco:hover {
 }
 
 div#seis {
+<<<<<<< HEAD
+=======
+    /*background-color: rgb(27, 54, 71);*/
+>>>>>>> origin/master
     background-color: rgb(158, 187, 59);
 }
 
@@ -114,9 +164,19 @@ div#seis:hover {
     display: block;
     margin: 0 auto;
     margin-top: 50px;
+<<<<<<< HEAD
     width: 50px;
     -webkit-box-shadow: 0px 0px 0px 30px rgba(255, 255, 255, 0);
     -webkit-transition: box-shadow .4s;
+=======
+    /*background-color: rgba(255, 255, 255, .15);*/
+    width: 50px;
+    /*padding: 20px;*/
+    /*-webkit-border-radius: 50%;*/
+    -webkit-box-shadow: 0px 0px 0px 30px rgba(255, 255, 255, 0);
+    -webkit-transition: box-shadow .4s;
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
 }
 
 p.texto {
@@ -148,6 +208,10 @@ div.contenedor:hover .icon {
 /*-----------------------footer-----------------*/
 
 footer {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     margin-top: 2%;
     height: 50px;
@@ -156,6 +220,10 @@ footer {
 }
 
 .pie {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 40%;
     margin-top: 1%;
     margin-left: 5%;
@@ -192,11 +260,19 @@ footer b {
 }
 
 .textonos {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     margin-top: 2%;
 }
 
 .textonoss {
+<<<<<<< HEAD
+=======
+    /*outline: 2px yellow solid;*/
+>>>>>>> origin/master
     width: 50%;
     margin: 0 auto;
     line-height: 20px;
@@ -206,9 +282,17 @@ footer b {
 }
 
 .puntosmv {
+<<<<<<< HEAD
     width: 100%;
     height: 300px;
     background-color: #515a5a;
+=======
+    /*outline: 2px red solid;*/
+    width: 100%;
+    height: 300px;
+    background-color: #515a5a;
+    /*text-align: center;*/
+>>>>>>> origin/master
 }
 
 .puntos,
@@ -216,27 +300,50 @@ footer b {
     display: inline-block;
     vertical-align: top;
     margin-top: 2.9%;
+<<<<<<< HEAD
 }
 
 .puntos {
+=======
+    /*border: 2px solid red;*/
+}
+
+.puntos {
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 40%;
     margin-left: 5%;
 }
 
 .mv {
+<<<<<<< HEAD
+=======
+    /*outline: 2px black solid;*/
+>>>>>>> origin/master
     color: #fff;
     width: 50%;
 }
 
 .porque {
     width: 100%;
+<<<<<<< HEAD
     color: white;
     background-color: rgb(158, 187, 59, 0.7);
+=======
+    /*outline: 2px green solid;*/
+    color: white;
+    background-color: rgb(158, 187, 59, 0.7);
+    /*text-align: center;*/
+>>>>>>> origin/master
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
 
 .puntosespecificos {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     color: white;
     background-color: rgb(158, 187, 59, 0.7);
     font-family: 'Roboto', sans-serif;
@@ -253,6 +360,10 @@ footer b {
     display: inline-block;
     margin-left: 2%;
     padding: 10px;
+<<<<<<< HEAD
+=======
+    /*background-color: #9EBB3B;*/
+>>>>>>> origin/master
 }
 
 .inf {
@@ -277,6 +388,10 @@ footer b {
     font-weight: bold;
     text-align: justify;
     padding: 10px;
+<<<<<<< HEAD
+=======
+    /*background-color: #9EBB3B;*/
+>>>>>>> origin/master
 }
 
 .valores {
@@ -284,6 +399,10 @@ footer b {
 }
 
 .valores p {
+<<<<<<< HEAD
+=======
+    /*outline: 2px black solid;*/
+>>>>>>> origin/master
     width: 100%;
     text-align: center;
     color: #5f6a6a;
@@ -292,6 +411,10 @@ footer b {
 }
 
 .contvaloresespecificos {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     margin-top: 2%;
     width: 100%;
 }
@@ -316,6 +439,10 @@ footer b {
 .responsabilidad,
 .etica,
 .compromiso {
+<<<<<<< HEAD
+=======
+    /*outline: 2px green solid;*/
+>>>>>>> origin/master
     width: 30%;
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
@@ -325,7 +452,13 @@ footer b {
 }
 
 .boton {
+<<<<<<< HEAD
     margin-top: 2%;
+=======
+    /*outline: 2px red solid;*/
+    margin-top: 2%;
+    /*height: 160px;*/
+>>>>>>> origin/master
 }
 
 .btnAzul {
@@ -334,6 +467,11 @@ footer b {
     height: 80px;
     padding: 25px 0 0 0;
     margin: 0 auto;
+<<<<<<< HEAD
+=======
+    /*background: #4682B4;*/
+    /*background-color: rgb(158, 187, 59);*/
+>>>>>>> origin/master
     background-color: #9EBB3B;
     background: -moz-linear-gradient(top, #9EBB3B 0%, #9EBB3B 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9EBB3B), color-stop(100%, #9EBB3B));
@@ -357,9 +495,27 @@ footer b {
 }
 
 
+<<<<<<< HEAD
 /*-----------------------------servicios------------------*/
 
 .contentextoser {
+=======
+/*.textoconta {
+    outline: 2px red solid;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}*/
+
+
+/*-----------------------------servicios------------------*/
+
+.contentextoser {
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     margin-top: 2%;
     background-color: #474746;
@@ -380,11 +536,19 @@ footer b {
 }
 
 .contservicios {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     overflow: hidden;
 }
 
 .contservicioss {
+<<<<<<< HEAD
+=======
+    /*outline: 2px green solid;*/
+>>>>>>> origin/master
     width: 80%;
     margin: 0 auto;
 }
@@ -397,12 +561,22 @@ footer b {
 }
 
 .text_serv {
+<<<<<<< HEAD
     margin-left: 2%;
+=======
+    /*outline: 2px yellow solid;*/
+    margin-left: 2%;
+    /*margin-top: 5%;*/
+>>>>>>> origin/master
     overflow: hidden;
     width: 50%;
 }
 
 .text_servenca {
+<<<<<<< HEAD
+=======
+    /*outline: 2px pink solid;*/
+>>>>>>> origin/master
     width: 100%;
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -411,6 +585,10 @@ footer b {
 }
 
 .text_sub {
+<<<<<<< HEAD
+=======
+    /*outline: 2px pink solid;*/
+>>>>>>> origin/master
     margin-top: 2%;
     width: 100%;
     text-align: justify;
@@ -420,6 +598,10 @@ footer b {
 }
 
 .figura {
+<<<<<<< HEAD
+=======
+    /*outline: 2px black solid;*/
+>>>>>>> origin/master
     width: 28%;
     margin-left: 5%;
 }
@@ -429,16 +611,28 @@ footer b {
 
 .header {
     width: 100%;
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     background-color: rgb(158, 187, 59);
     height: 62px;
 }
 
 .header nav {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 70%;
     margin: 0 auto;
 }
 
 .header nav ul {
+<<<<<<< HEAD
+=======
+    /*outline: 2px black solid;*/
+>>>>>>> origin/master
     width: 100%;
 }
 
@@ -446,13 +640,22 @@ footer b {
     border-right: 2px #474746 solid;
     width: 22%;
     display: inline-block;
+<<<<<<< HEAD
     / text-decoration: none;
+=======
+    /*margin-left: 3%;*/
+    text-decoration: none;
+>>>>>>> origin/master
     list-style: none;
     padding: 20px;
     text-align: center;
 }
 
 .header nav ul li a {
+<<<<<<< HEAD
+=======
+    /*outline: 2px green solid;*/
+>>>>>>> origin/master
     text-decoration: none;
     list-style: none;
     color: black;
@@ -465,10 +668,18 @@ footer b {
 
 .header nav ul .active {
     background-color: rgb(135, 184, 37);
+<<<<<<< HEAD
+=======
+    /*border-radius: 5px;*/
+>>>>>>> origin/master
     color: #FFF;
 }
 
 .contacto {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     text-align: center;
     color: #5f6a6a;
@@ -476,6 +687,10 @@ footer b {
 }
 
 .textoconta {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 50%;
     margin: 0 auto;
     margin-top: 1%;
@@ -485,13 +700,25 @@ footer b {
 }
 
 #contacto {
+<<<<<<< HEAD
     overflow: hidden;
     width: 50%;
     margin: 0 auto;
+=======
+    /*border: 2px yellow solid;*/
+    overflow: hidden;
+    width: 50%;
+    margin: 0 auto;
+    /*margin-left: 5%;*/
+>>>>>>> origin/master
     margin-top: 2%;
 }
 
 .ema {
+<<<<<<< HEAD
+=======
+    /*border: 2px yellow solid;*/
+>>>>>>> origin/master
     font-size: 16px;
     font-family: helvetica;
     font-weight: bold;
@@ -508,6 +735,10 @@ footer b {
 .emai {
     height: 30px;
     border-radius: 5px;
+<<<<<<< HEAD
+=======
+    /*border: .5px solid #504C4C;*/
+>>>>>>> origin/master
     margin-top: 1%;
     border: 1px solid #ccc;
     width: 99%;
@@ -520,19 +751,35 @@ footer b {
 input::-webkit-input-placeholder {
     color: #747474;
     padding-left: 5px;
+<<<<<<< HEAD
+=======
+    /*text-align: center;*/
+>>>>>>> origin/master
 }
 
 input:-moz-placeholder {
     color: #747474;
     padding-left: 5px;
+<<<<<<< HEAD
+=======
+    /*margin-left: 15px;*/
+>>>>>>> origin/master
 }
 
 input:-ms-input-placeholder {
     color: #747474;
     padding-left: 5px;
+<<<<<<< HEAD
 }
 
 .enviar {
+=======
+    /*margin-left: 15px;*/
+}
+
+.enviar {
+    /*border: 2px solid red;*/
+>>>>>>> origin/master
     font-size: 16px;
     font-weight: bold;
     color: white;
@@ -550,18 +797,33 @@ input:-ms-input-placeholder {
 }
 
 .der {
+<<<<<<< HEAD
     width: 50%;
     float: right;
+=======
+    /*border: 2px black solid;*/
+    width: 50%;
+    float: right;
+    /*margin-left: 2%;*/
+>>>>>>> origin/master
     padding: 3% 0px 3% 3%;
 }
 
 .izq {
+<<<<<<< HEAD
+=======
+    /*border: 2px black solid;*/
+>>>>>>> origin/master
     width: 43%;
     padding: 3% 3% 3% 0px;
     float: left;
 }
 
 #cote {
+<<<<<<< HEAD
+=======
+    /*border: 2px solid red;*/
+>>>>>>> origin/master
     overflow: hidden;
 }
 
@@ -580,6 +842,10 @@ input:-ms-input-placeholder {
 }
 
 .mapa {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 90%;
     margin: 0 auto;
     text-align: center;
@@ -590,6 +856,10 @@ input:-ms-input-placeholder {
 }
 
 .datos {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     margin-top: 2%;
     width: 100%;
 }
@@ -598,6 +868,10 @@ input:-ms-input-placeholder {
 .tel,
 .hor,
 .cor {
+<<<<<<< HEAD
+=======
+    /*outline: 2px yellow solid;*/
+>>>>>>> origin/master
     width: 20%;
     display: inline-block;
     margin-left: 4%;
@@ -605,6 +879,10 @@ input:-ms-input-placeholder {
 }
 
 .text_datos {
+<<<<<<< HEAD
+=======
+    /*outline: 2px red solid;*/
+>>>>>>> origin/master
     width: 100%;
     text-align: center;
     color: #5f6a6a;

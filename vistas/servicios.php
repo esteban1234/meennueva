@@ -5,7 +5,11 @@
       <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
     </article>
      <article class="nombrecabeza2">
+<<<<<<< HEAD
       <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;info@meen.com.mx
+=======
+      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
+>>>>>>> origin/master
     </article>
   </article>
 
@@ -133,6 +137,10 @@
     <?php include 'Pie.php';?>
 
     <script type="text/javascript" src="../js/jquery.js"></script>
+<<<<<<< HEAD
+=======
+    <!-- <script src="../js/menu.js"></script> -->
+>>>>>>> origin/master
     <script type="text/javascript" src="../js/iconoarriba.js"></script>
   </body>
 </html>

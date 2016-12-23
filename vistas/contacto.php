@@ -5,7 +5,11 @@
       <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
     </article>
      <article class="nombrecabeza2">
+<<<<<<< HEAD
       <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;info@meen.com.mx
+=======
+      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
+>>>>>>> origin/master
     </article>
   </article>
 
@@ -28,6 +32,12 @@
       <label class="ema">Nombre (s):</label><br>
       <input class="emai" type="text" name="nombre" size="60" maxlength="40" placeholder="Nombre completo" required/><br><br>
 
+<<<<<<< HEAD
+=======
+      <!-- <label class="ema">Apellidos:</label><br>
+      <input class="emai" type="text" name="apellido" size="60" maxlength="40" placeholder="Apellidos" required/><br><br> -->
+
+>>>>>>> origin/master
       <div id="cote">
           <div class="izq">
               <label class="ema">Correo electronico:</label><br>
@@ -65,7 +75,11 @@
           </article>
           <article class="cor">
             <p class="text_datos">CORREO</p>
+<<<<<<< HEAD
           <p class="text_datosd">info@meen.com.mx</p>
+=======
+          <p class="text_datosd">Pendiente.</p>
+>>>>>>> origin/master
           </article>
         </article>
 
