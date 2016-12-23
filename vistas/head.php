@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
       <meta charset="utf-8">
+      <meta name="google-site-verification" content="okez4_C3PN9c7fN_xGy6D1uph2LFRARpXUkY8xYZKw8" />
       <link rel="icon" type="image/png" href="img/favicon.png" />
       <title>
           MEEN | CONSTRUCTORA
