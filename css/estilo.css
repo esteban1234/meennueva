@@ -12,13 +12,10 @@ body {
     height: 100%;
     width: 100%;
     margin: 0px;
-    /*background-color: #242424;*/
-    /*background-color: #73F600;*/
     background-color: #e5e8e8;
 }
 
 .reglacabeza {
-    /*outline: 2px black solid;*/
     background-color: rgb(71, 71, 70);
     width: 100%;
     padding: 10px 0px;
@@ -31,7 +28,6 @@ body {
 }
 
 .nombrecabeza {
-    /*outline: 2px yellow solid;*/
     width: 15%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -40,7 +36,6 @@ body {
 }
 
 .nombrecabeza2 {
-    /*outline: 2px yellow solid;*/
     width: 15%;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -58,18 +53,11 @@ body {
 }
 
 .portada {
-    /*background: url(img/fondo.png) no-repeat fixed center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;*/
-    /*outline: 2px red solid;*/
     height: 100%;
     width: 100%;
 }
 
 .portada figure {
-    /*outline: 2px red solid;*/
     width: 100%;
     text-align: center;
 }
@@ -78,11 +66,9 @@ body {
 /*-------------------------------------menu-------------------*/
 
 header {
-    /*outline: 2px red solid;*/
     margin: 0 auto;
     width: 59.5%;
     height: 200px;
-    /*background-color: red;*/
 }
 
 div.contenedor {
@@ -93,7 +79,6 @@ div.contenedor {
 }
 
 div#tres {
-    /*background-color: rgb(22, 145, 190);*/
     background-color: rgb(71, 71, 70);
 }
 
@@ -102,7 +87,6 @@ div#tres:hover {
 }
 
 div#cuatro {
-    /*background-color: rgb(27, 54, 71);*/
     background-color: rgb(158, 187, 59);
 }
 
@@ -119,7 +103,6 @@ div#cinco:hover {
 }
 
 div#seis {
-    /*background-color: rgb(27, 54, 71);*/
     background-color: rgb(158, 187, 59);
 }
 
@@ -131,13 +114,9 @@ div#seis:hover {
     display: block;
     margin: 0 auto;
     margin-top: 50px;
-    /*background-color: rgba(255, 255, 255, .15);*/
     width: 50px;
-    /*padding: 20px;*/
-    /*-webkit-border-radius: 50%;*/
     -webkit-box-shadow: 0px 0px 0px 30px rgba(255, 255, 255, 0);
     -webkit-transition: box-shadow .4s;
-    /*outline: 2px red solid;*/
 }
 
 p.texto {
@@ -169,7 +148,6 @@ div.contenedor:hover .icon {
 /*-----------------------footer-----------------*/
 
 footer {
-    /*outline: 2px red solid;*/
     width: 100%;
     margin-top: 2%;
     height: 50px;
@@ -178,7 +156,6 @@ footer {
 }
 
 .pie {
-    /*outline: 2px red solid;*/
     width: 40%;
     margin-top: 1%;
     margin-left: 5%;
@@ -215,13 +192,11 @@ footer b {
 }
 
 .textonos {
-    /*outline: 2px red solid;*/
     width: 100%;
     margin-top: 2%;
 }
 
 .textonoss {
-    /*outline: 2px yellow solid;*/
     width: 50%;
     margin: 0 auto;
     line-height: 20px;
@@ -231,11 +206,9 @@ footer b {
 }
 
 .puntosmv {
-    /*outline: 2px red solid;*/
     width: 100%;
     height: 300px;
     background-color: #515a5a;
-    /*text-align: center;*/
 }
 
 .puntos,
@@ -243,33 +216,27 @@ footer b {
     display: inline-block;
     vertical-align: top;
     margin-top: 2.9%;
-    /*border: 2px solid red;*/
 }
 
 .puntos {
-    /*outline: 2px red solid;*/
     width: 40%;
     margin-left: 5%;
 }
 
 .mv {
-    /*outline: 2px black solid;*/
     color: #fff;
     width: 50%;
 }
 
 .porque {
     width: 100%;
-    /*outline: 2px green solid;*/
     color: white;
     background-color: rgb(158, 187, 59, 0.7);
-    /*text-align: center;*/
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
 
 .puntosespecificos {
-    /*outline: 2px red solid;*/
     color: white;
     background-color: rgb(158, 187, 59, 0.7);
     font-family: 'Roboto', sans-serif;
@@ -286,7 +253,6 @@ footer b {
     display: inline-block;
     margin-left: 2%;
     padding: 10px;
-    /*background-color: #9EBB3B;*/
 }
 
 .inf {
@@ -311,7 +277,6 @@ footer b {
     font-weight: bold;
     text-align: justify;
     padding: 10px;
-    /*background-color: #9EBB3B;*/
 }
 
 .valores {
@@ -319,7 +284,6 @@ footer b {
 }
 
 .valores p {
-    /*outline: 2px black solid;*/
     width: 100%;
     text-align: center;
     color: #5f6a6a;
@@ -328,7 +292,6 @@ footer b {
 }
 
 .contvaloresespecificos {
-    /*outline: 2px red solid;*/
     margin-top: 2%;
     width: 100%;
 }
@@ -353,7 +316,6 @@ footer b {
 .responsabilidad,
 .etica,
 .compromiso {
-    /*outline: 2px green solid;*/
     width: 30%;
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
@@ -363,9 +325,7 @@ footer b {
 }
 
 .boton {
-    /*outline: 2px red solid;*/
     margin-top: 2%;
-    /*height: 160px;*/
 }
 
 .btnAzul {
@@ -374,8 +334,6 @@ footer b {
     height: 80px;
     padding: 25px 0 0 0;
     margin: 0 auto;
-    /*background: #4682B4;*/
-    /*background-color: rgb(158, 187, 59);*/
     background-color: #9EBB3B;
     background: -moz-linear-gradient(top, #9EBB3B 0%, #9EBB3B 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9EBB3B), color-stop(100%, #9EBB3B));
@@ -399,21 +357,9 @@ footer b {
 }
 
 
-/*.textoconta {
-    outline: 2px red solid;
-    width: 50%;
-    margin: 0 auto;
-    margin-top: 1%;
-    text-align: center;
-    font-size: 16px;
-    font-family: 'Roboto', sans-serif;
-}*/
-
-
 /*-----------------------------servicios------------------*/
 
 .contentextoser {
-    /*outline: 2px red solid;*/
     width: 100%;
     margin-top: 2%;
     background-color: #474746;
@@ -434,13 +380,11 @@ footer b {
 }
 
 .contservicios {
-    /*outline: 2px red solid;*/
     width: 100%;
     overflow: hidden;
 }
 
 .contservicioss {
-    /*outline: 2px green solid;*/
     width: 80%;
     margin: 0 auto;
 }
@@ -453,15 +397,12 @@ footer b {
 }
 
 .text_serv {
-    /*outline: 2px yellow solid;*/
     margin-left: 2%;
-    /*margin-top: 5%;*/
     overflow: hidden;
     width: 50%;
 }
 
 .text_servenca {
-    /*outline: 2px pink solid;*/
     width: 100%;
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -470,7 +411,6 @@ footer b {
 }
 
 .text_sub {
-    /*outline: 2px pink solid;*/
     margin-top: 2%;
     width: 100%;
     text-align: justify;
@@ -480,7 +420,6 @@ footer b {
 }
 
 .figura {
-    /*outline: 2px black solid;*/
     width: 28%;
     margin-left: 5%;
 }
@@ -490,19 +429,16 @@ footer b {
 
 .header {
     width: 100%;
-    /*outline: 2px red solid;*/
     background-color: rgb(158, 187, 59);
     height: 62px;
 }
 
 .header nav {
-    /*outline: 2px red solid;*/
     width: 70%;
     margin: 0 auto;
 }
 
 .header nav ul {
-    /*outline: 2px black solid;*/
     width: 100%;
 }
 
@@ -510,15 +446,13 @@ footer b {
     border-right: 2px #474746 solid;
     width: 22%;
     display: inline-block;
-    /*margin-left: 3%;*/
-    text-decoration: none;
+    / text-decoration: none;
     list-style: none;
     padding: 20px;
     text-align: center;
 }
 
 .header nav ul li a {
-    /*outline: 2px green solid;*/
     text-decoration: none;
     list-style: none;
     color: black;
@@ -531,12 +465,10 @@ footer b {
 
 .header nav ul .active {
     background-color: rgb(135, 184, 37);
-    /*border-radius: 5px;*/
     color: #FFF;
 }
 
 .contacto {
-    /*outline: 2px red solid;*/
     width: 100%;
     text-align: center;
     color: #5f6a6a;
@@ -544,7 +476,6 @@ footer b {
 }
 
 .textoconta {
-    /*outline: 2px red solid;*/
     width: 50%;
     margin: 0 auto;
     margin-top: 1%;
@@ -554,16 +485,13 @@ footer b {
 }
 
 #contacto {
-    /*border: 2px yellow solid;*/
     overflow: hidden;
     width: 50%;
     margin: 0 auto;
-    /*margin-left: 5%;*/
     margin-top: 2%;
 }
 
 .ema {
-    /*border: 2px yellow solid;*/
     font-size: 16px;
     font-family: helvetica;
     font-weight: bold;
@@ -580,7 +508,6 @@ footer b {
 .emai {
     height: 30px;
     border-radius: 5px;
-    /*border: .5px solid #504C4C;*/
     margin-top: 1%;
     border: 1px solid #ccc;
     width: 99%;
@@ -593,23 +520,19 @@ footer b {
 input::-webkit-input-placeholder {
     color: #747474;
     padding-left: 5px;
-    /*text-align: center;*/
 }
 
 input:-moz-placeholder {
     color: #747474;
     padding-left: 5px;
-    /*margin-left: 15px;*/
 }
 
 input:-ms-input-placeholder {
     color: #747474;
     padding-left: 5px;
-    /*margin-left: 15px;*/
 }
 
 .enviar {
-    /*border: 2px solid red;*/
     font-size: 16px;
     font-weight: bold;
     color: white;
@@ -627,22 +550,18 @@ input:-ms-input-placeholder {
 }
 
 .der {
-    /*border: 2px black solid;*/
     width: 50%;
     float: right;
-    /*margin-left: 2%;*/
     padding: 3% 0px 3% 3%;
 }
 
 .izq {
-    /*border: 2px black solid;*/
     width: 43%;
     padding: 3% 3% 3% 0px;
     float: left;
 }
 
 #cote {
-    /*border: 2px solid red;*/
     overflow: hidden;
 }
 
@@ -661,7 +580,6 @@ input:-ms-input-placeholder {
 }
 
 .mapa {
-    /*outline: 2px red solid;*/
     width: 90%;
     margin: 0 auto;
     text-align: center;
@@ -672,7 +590,6 @@ input:-ms-input-placeholder {
 }
 
 .datos {
-    /*outline: 2px red solid;*/
     margin-top: 2%;
     width: 100%;
 }
@@ -681,7 +598,6 @@ input:-ms-input-placeholder {
 .tel,
 .hor,
 .cor {
-    /*outline: 2px yellow solid;*/
     width: 20%;
     display: inline-block;
     margin-left: 4%;
@@ -689,7 +605,6 @@ input:-ms-input-placeholder {
 }
 
 .text_datos {
-    /*outline: 2px red solid;*/
     width: 100%;
     text-align: center;
     color: #5f6a6a;

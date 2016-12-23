@@ -5,7 +5,7 @@
           <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
         </article>
          <article class="nombrecabeza2">
-          <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
+          <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;info@meen.com.mx
         </article>
   </article>
 
@@ -30,7 +30,6 @@
   <article class="puntosmv">
     <article class="puntos">
       <p class="porque">¿PORQUE CONSTRUIR CON NOSOTROS?</p> <br>
-      <!-- <p class="puntosespecificos">Porque ofrece:</p> -->
       <p class="puntosespecificos">*&nbsp;Años de experiencia nos respaldan.</p>
       <p class="puntosespecificos">*&nbsp;Excelente relación precio/metro cuadrado.</p>
       <p class="puntosespecificos">*&nbsp;El mejor equipamiento en sus desarrollos.</p>
@@ -61,7 +60,7 @@
       					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
       						Visión
                 </h3><br>
-                <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
+                <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra.</p>
       				</div>
 
       				<div class="pi-tab-pane" id="objetivo">
@@ -114,9 +113,7 @@
 
     <?php include 'Pie.php';?>
 
-    <!-- <script type="text/javascript" src="../js/jquery.js"></script> -->
     <script src="../js/jquery-1.11.0.min.js"></script>
-    <!-- <script src="../js/menu.js"></script> -->
     <script src="../js/mostrar.js"></script>
     <script type="text/javascript" src="../js/iconoarriba.js"></script>
     <script src="../js/pi.tab.js"></script>

@@ -5,7 +5,7 @@
       <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
     </article>
      <article class="nombrecabeza2">
-      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
+      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;info@meen.com.mx
     </article>
   </article>
 
@@ -27,9 +27,6 @@
   <form id="contacto" action="envia.php" method="POST">
       <label class="ema">Nombre (s):</label><br>
       <input class="emai" type="text" name="nombre" size="60" maxlength="40" placeholder="Nombre completo" required/><br><br>
-
-      <!-- <label class="ema">Apellidos:</label><br>
-      <input class="emai" type="text" name="apellido" size="60" maxlength="40" placeholder="Apellidos" required/><br><br> -->
 
       <div id="cote">
           <div class="izq">
@@ -68,7 +65,7 @@
           </article>
           <article class="cor">
             <p class="text_datos">CORREO</p>
-          <p class="text_datosd">Pendiente.</p>
+          <p class="text_datosd">info@meen.com.mx</p>
           </article>
         </article>
 
