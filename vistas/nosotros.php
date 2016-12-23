@@ -5,11 +5,7 @@
           <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
         </article>
          <article class="nombrecabeza2">
-<<<<<<< HEAD
           <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;info@meen.com.mx
-=======
-          <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
->>>>>>> origin/master
         </article>
   </article>
 
@@ -34,10 +30,6 @@
   <article class="puntosmv">
     <article class="puntos">
       <p class="porque">¿PORQUE CONSTRUIR CON NOSOTROS?</p> <br>
-<<<<<<< HEAD
-=======
-      <!-- <p class="puntosespecificos">Porque ofrece:</p> -->
->>>>>>> origin/master
       <p class="puntosespecificos">*&nbsp;Años de experiencia nos respaldan.</p>
       <p class="puntosespecificos">*&nbsp;Excelente relación precio/metro cuadrado.</p>
       <p class="puntosespecificos">*&nbsp;El mejor equipamiento en sus desarrollos.</p>
@@ -68,11 +60,8 @@
       					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
       						Visión
                 </h3><br>
-<<<<<<< HEAD
                 <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra.</p>
-=======
-                <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
->>>>>>> origin/master
+                <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra.</p>
       				</div>
 
       				<div class="pi-tab-pane" id="objetivo">
@@ -125,13 +114,8 @@
 
     <?php include 'Pie.php';?>
 
-<<<<<<< HEAD
     <script src="../js/jquery-1.11.0.min.js"></script>
-=======
-    <!-- <script type="text/javascript" src="../js/jquery.js"></script> -->
     <script src="../js/jquery-1.11.0.min.js"></script>
-    <!-- <script src="../js/menu.js"></script> -->
->>>>>>> origin/master
     <script src="../js/mostrar.js"></script>
     <script type="text/javascript" src="../js/iconoarriba.js"></script>
     <script src="../js/pi.tab.js"></script>
