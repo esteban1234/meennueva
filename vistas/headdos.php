@@ -9,7 +9,7 @@
             </title>
             <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
             <meta content="Somos una compañía ubicada en la ciudad de Mérida, Yucatán, México, dedicados a ofrecer productos para la construcción, construcción de casas, remodelación, contrucción de carreteras, edificios y ampliaciones." name="Title">
-                <meta content="[]" name="Author"/>
+                <meta content="[www.meen.com.mx]" name="Author"/>
                 <meta content="Somos una compañía ubicada en la ciudad de Mérida, Yucatán, México, dedicados a ofrecer productos para la construcción, construcción de casas, remodelación, contrucción de carreteras, edificios y ampliaciones." name="Description"/>
                 <meta content="productos para la construcción merida yucatan, construcción merida yucatan, construcción, MEEN merida yucatan, MEEN merida yucatan, contrucción de casas merida yucatan, ampliaciones de casa merida yucatan, ingenieria civil merida yucatan, productos de construcción, levantamientos, mexico merida yucatan, desarrollo de proyectos de construcción" name="Keywords"/>
                 <!-- <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" name="viewport"> -->

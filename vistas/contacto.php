@@ -5,7 +5,7 @@
       <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
     </article>
      <article class="nombrecabeza2">
-      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
+      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;info@meen.com.mx
     </article>
   </article>
 
@@ -68,7 +68,7 @@
           </article>
           <article class="cor">
             <p class="text_datos">CORREO</p>
-          <p class="text_datosd">Pendiente.</p>
+          <p class="text_datosd">info@meen.com.mx</p>
           </article>
         </article>
 
